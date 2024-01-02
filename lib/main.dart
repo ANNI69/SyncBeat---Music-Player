@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:syncbeat/screens/user_login.dart';
+
 void main() {
   runApp(const MyApp());
 }
@@ -15,4 +16,3 @@ class MyApp extends StatelessWidget {
     );
   }
 }
-
