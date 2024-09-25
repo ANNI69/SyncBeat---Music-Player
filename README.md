@@ -2,6 +2,9 @@
 
 SyncBeat is a cross-platform music player built with Flutter, offering synchronized playback and a user-friendly interface.
 
+![Logo](https://i.imghippo.com/files/zZmHc1727294670.png)
+
+
 ## Features
 
 - **Cross-Platform:** Compatible with Android and iOS.
@@ -26,7 +29,7 @@ SyncBeat is a cross-platform music player built with Flutter, offering synchroni
 ## Contributing
 
 1. Fork the repository.
-2. Create a new branch: `git checkout -b feature/your-feature-name`.
+2. Create a new branch: 
 3. Make changes, commit, and push.
 4. Submit a pull request.
 
@@ -41,6 +44,6 @@ SyncBeat Music Player is open-source under the [MIT License](LICENSE).
 
 ## Contact
 
-For questions or feedback, contact us at [email@example.com].
+For questions or feedback, contact us at [codebyanii@gmail.com].
 
 Happy listening!
